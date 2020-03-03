@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD  hihi
 this is my test! (Edit this line)
 =======
 this is my test! ( Edit this line )
