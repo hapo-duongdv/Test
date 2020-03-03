@@ -1,1 +1,4 @@
-this is my test!
+this is my test! ( Edit this line )
+Test 2 : 
+    - Khi clone repo từ Git về thì folder đó không còn là 1 git repo nữa ( Folder bình thường)
+Test 3 : 
